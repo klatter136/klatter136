@@ -4,7 +4,7 @@ A bit about this page and myself: I am embarking on my cloud engineering journey
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-Project #1 ([https://github.com/klatter136/LABURL](https://github.com/klatter136/Project-1-/tree/main))
+Project #1 (https://github.com/klatter136/Project-1-/tree/main)
 
 
 
