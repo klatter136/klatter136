@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Kyle! </h1>
 
-<!--
-**klatter136/klatter136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A bit about this page and myself: I am embarking on my cloud engineering journey! I love the versatility of cloud, and how it's at the intersection of so many different domains of information technology. I have experience in network security Professional Services, I am a certified Fortinet and Palo Alto Instructor, and I have worked as a penetration tester.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project #1 (https://github.com/klatter136/LABURL)
+
+
+
+
+
+
+
+
+
