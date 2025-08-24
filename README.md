@@ -4,13 +4,13 @@ A bit about this page and myself: I am embarking on my cloud engineering journey
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-Project #1 (https://github.com/klatter136/Project-1-/tree/main)
+Project #1 Designing Scalable Web Application Architectures (https://github.com/klatter136/Project-1-/tree/main)
 
-Project #2 (https://github.com/klatter136/Project-2/blob/main/README.md)
+Project #2 Video Sharing Platform (https://github.com/klatter136/Project-2/blob/main/README.md)
 
-Project #3 (https://github.com/klatter136/Project-3/blob/main/README.md)
+Project #3 Design a Secure VPC Architecture (https://github.com/klatter136/Project-3/blob/main/README.md)
 
-Project #4 (https://github.com/klatter136/Project-4)
+Project #4 CloudFormation IaaC Project (https://github.com/klatter136/Project-4)
 
 
 
