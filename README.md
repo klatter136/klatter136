@@ -10,7 +10,7 @@ Project #2 Video Sharing Platform (https://github.com/klatter136/Project-2/blob/
 
 Project #3 Design a Secure VPC Architecture (https://github.com/klatter136/Project-3/blob/main/README.md)
 
-Project #4 CloudFormation IaaC Project (https://github.com/klatter136/Project-4)
+Project #4 CloudFormation IaC Project (https://github.com/klatter136/Project-4)
 
 
 
