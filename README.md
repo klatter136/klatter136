@@ -14,6 +14,8 @@ Project #4 CloudFormation IaC Project (https://github.com/klatter136/Project-4)
 
 Project #5 Infrastructure as Code with Terraform (https://github.com/klatter136/terraform-portfolio-project)
 
+Project #6 GitHub Actions (https://github.com/klatter136/lambda-cicd/blob/main/README.md)
+
 
 
 
