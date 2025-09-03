@@ -6,7 +6,7 @@ I love the versatility of cloud, and how it's at the intersection of so many dif
 
 Project #1 Designing Scalable Web Application Architectures (https://github.com/klatter136/Designing-Scalable-Web-Application-Architectures)
 
-Project #2 Video Sharing Platform (https://github.com/klatter136/Project-2/blob/main/README.md)
+Project #2 Video Sharing Platform (https://github.com/klatter136/Video-Sharing-Platform)
 
 Project #3 Design a Secure VPC Architecture (https://github.com/klatter136/Project-3/blob/main/README.md)
 
