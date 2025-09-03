@@ -4,7 +4,7 @@ I love the versatility of cloud, and how it's at the intersection of so many dif
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-Project #1 Designing Scalable Web Application Architectures (https://github.com/klatter136/Project-1-/tree/main)
+Project #1 Designing Scalable Web Application Architectures (https://github.com/klatter136/Designing-Scalable-Web-Application-Architectures)
 
 Project #2 Video Sharing Platform (https://github.com/klatter136/Project-2/blob/main/README.md)
 
