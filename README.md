@@ -10,7 +10,7 @@ Project #2 Video Sharing Platform (https://github.com/klatter136/Video-Sharing-P
 
 Project #3 Design a Secure VPC Architecture (https://github.com/klatter136/Design-a-Secure-VPC-Architecture)
 
-Project #4 CloudFormation IaC Project (https://github.com/klatter136/Project-4)
+Project #4 CloudFormation IaC Project (https://github.com/klatter136/CloudFormation-IaC-Project)
 
 Project #5 Infrastructure as Code with Terraform (https://github.com/klatter136/terraform-portfolio-project)
 
