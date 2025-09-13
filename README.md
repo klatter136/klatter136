@@ -18,7 +18,7 @@ Project #6 GitHub Actions (https://github.com/klatter136/lambda-cicd/blob/main/R
 
 Project #7 Creating an RDS Instance with CDK (https://github.com/klatter136/Creating-an-RDS-Instance-with-CDK)
 
-Project #8 Startup - IAM and Security(https://github.com/klatter136/Startup-IAM/blob/main/README.md)
+Project #8 Startup - IAM and Security (https://github.com/klatter136/Startup-IAM/blob/main/README.md)
 
 
 
