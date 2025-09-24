@@ -2,6 +2,8 @@
 
 I love the versatility of cloud, and how it's at the intersection of so many different domains of information technology. I have experience in network security Professional Services, I am a certified Fortinet and Palo Alto Instructor, and I have worked as a penetration tester.
 
+For the most part, my projects increase in complexity.
+
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
 Project #1 Designing Scalable Web Application Architectures (https://github.com/klatter136/Designing-Scalable-Web-Application-Architectures)
